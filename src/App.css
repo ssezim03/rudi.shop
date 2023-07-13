@@ -1,0 +1,16 @@
+
+#app{
+  background: linear-gradient(90deg, rgb(42, 60, 119) 0%, rgb(23, 46, 70) 48%, rgb(0, 91, 108) 100%);
+}
+*{
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+a{
+  text-decoration: none;
+}
+.container{
+  width: 90%;
+  margin: 0 auto;
+}
